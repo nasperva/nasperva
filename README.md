@@ -7,6 +7,4 @@ I'm very passionate about AI technologies. Hence, I try to make my own models ba
 
 - 🔭 I’m currently working on my thesis. 
 
-
-
-
+* [<img src="https://unpkg.com/simple-icons@7.15.0/icons/linkedin.svg" alt='linkedin' height='22' align="center">](https://www.linkedin.com/in/ege-bartu-acar-55b160256/)  
