@@ -10,4 +10,4 @@ I'm very passionate about AI technologies. Hence, I try to make my own models ba
 
 
 Contact me:
-* [<img src="[https://unpkg.com/simple-icons@7.15.0/icons/linkedin.svg](https://proinfluent.b-cdn.net/wp-content/uploads/2021/11/Icone-LinkedIn-officiel-635x540.png)" alt='linkedin' height='22' align="center">](https://www.linkedin.com/in/ege-bartu-acar-55b160256/)  
+* [<img src="[[https://unpkg.com/simple-icons@7.15.0/icons/linkedin.svg](https://proinfluent.b-cdn.net/wp-content/uploads/2021/11/Icone-LinkedIn-officiel-635x540.png])" alt='LinkedIn' height='22' align="center">](https://www.linkedin.com/in/ege-bartu-acar-55b160256/)  
