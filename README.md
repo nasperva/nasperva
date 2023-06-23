@@ -1,9 +1,9 @@
 ### Hey, welcome
 
 
-- My name is Ege. I am a Full Stack Web Developer | ML/DL/AI Developer | Linguist. 
--  I am constantly improving myself on web development by coding projects. 
-- I am also very passionate about AI technologies. Hence, I try to make my own models.
+ My name is Ege. I am a Full Stack Web Developer | ML/DL/AI Developer | Linguist. 
+ I am constantly improving myself on web development by coding projects. 
+ I am also very passionate about AI technologies. Hence, I try to make my own models.
 
 
 
