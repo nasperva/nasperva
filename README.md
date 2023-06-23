@@ -1,12 +1,13 @@
 ### Hey, welcome
 
 
-My name is Ege. I am a ML/DL/AI developer and also senior-year Linguistics student.
-I'm very passionate about AI technologies. Hence, I try to make my own models based on deep learning, machine learning and natural language processing.
+My name is Ege. I am a Full Stack Web Developer | ML/DL/AI Developer | Linguist. 
+I'm constantly improving myself on web development by coding projects. 
+I'm also very passionate about AI technologies. Hence, I try to make my own models.
 
 
-- 🔭 I’m currently working on my thesis.  
 
+- 🔭 I’m currently focused on React and also Back-End development.
 
 
 Contact me:
